@@ -11,6 +11,9 @@ import java.sql.ResultSet;
 import java.util.Scanner;
 
 public class Sample {
+	
+	int j=0;
+	String str="Varun";
 
 	public static void main(String[] args) throws IOException {
 		Scanner s = new Scanner(System.in);
